@@ -17,10 +17,11 @@ ARB-wise (scanned `xbl.img` with sectools provided by Qualcomm):
 
 
 Indian EDL build are here:
-| CPH2619EX_11_16.0.5.700EX01 | CPH2619EX_11_16.0.5.1000EX01 | << They're ARB too !!
+| CPH2619EX_11_16.0.5.700EX01 | CPH2619EX_11_16.0.5.1000EX01 |
 |:----------------------------|:-----------------------------|
 | [Download Link](https://drive.usercontent.google.com/download?id=13CShzBAfD8XxT6HeVUanBXLyzTBqTJ3k&export=download&authuser=0) | [Download Link](https://drive.usercontent.google.com/download?id=1JS0sKjBJrw37Dz_zm6WNhkVuDyvzRzfB&export=download&authuser=0) |
 
+Don't forget those are ARB too and if you're updating to it there's no way back.
 
 ***If you want to suggest changes or give me the FULL OTA of 16.0.5.700 or lower to check contact me on my [Telegram](https://t.me/diathequeen)***
 **Otherwise scan yourself with [Qualcomm SecTools](https://softwarecenter.qualcomm.com/catalog/item/Qualcomm_Security_Tools)**
