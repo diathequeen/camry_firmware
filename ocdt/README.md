@@ -22,5 +22,7 @@ EDL flash can fix it but there's a catch... ARB makes EDL flash a 10 times harde
 | ARB index `0x0` | ARB index `0x1` | 
 
 For your further researches my dear friend, I took ocdtEUcamry.img from my alive EU device and took ocdtINcamry.img from easy JTAG dump from CPH2619export_16.0.5.700EX01 (don't worry these ocdt aren't affected by OTA updates).
+
 I am not able of resolving such a big problem.
+
 Even more is that I'm doing this all alone just for someone else in the possible future to take my place in AFK camry community.
